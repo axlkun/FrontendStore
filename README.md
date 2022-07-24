@@ -1,4 +1,4 @@
 # FrontendStore
-Frontend de tienda online de playeras para programadores
+Frontend of online store of t-shirts for programmers
 
-CSS y HTML5
+Developed with CSS and HTML5
