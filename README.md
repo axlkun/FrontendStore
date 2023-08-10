@@ -1,4 +1,5 @@
 # FrontendStore
-Frontend of online store of t-shirts for programmers
+Frontend for an online store selling t-shirts for programmers.
 
 Developed with CSS and HTML5
+Project to practice grid and flexbox
